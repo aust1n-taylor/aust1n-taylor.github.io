@@ -1,7 +1,9 @@
 html {
-    font-size: 15px;
+    border: 0;
+    margin: 0;
+    font-size: 20px;
     background-color: #F9F7F7;
-    margin-left: 40px;
+    margin-left: 0px;
 }
 
 nav, a{
@@ -11,7 +13,8 @@ nav, a{
 
 .navtitle {
     font-size: 30px;
-    margin-right: 70%;
+    margin-left: 5%;
+    margin-right: 65%;
 }
 
 h2 {
@@ -29,6 +32,20 @@ a {
     color: #3F72AF;
 }
 
+#name_in_footer {
+    margin-left: 5%;
+}
+
+.footer_name_placement {
+    margin-left: 35%;
+    text-align: center;
+}
+
 p {
+
     color: #112D4E;
+}
+
+body {
+    margin: %;
 }
